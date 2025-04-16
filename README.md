@@ -27,14 +27,11 @@ A continuación, detállanse as persoas que participan neste proxecto e o compo�
 | [Jonathan] | [@JonaSaavedra] | [Detalle] |
 | [Lola] | [Lola 162683] | [Título e Ranting] |
 | [Laura] | [@LauraAmparo] | [Descripción] |
-| [Enzo] | [@usuario4] | [Footer] |
+| [Enzo] | [@EnzoC1036] | [Footer] |
 | [Jesús] | [@Likidei] | [AporteNutricional] |
-| [Carlos] | [@usuario4] | [DetallePopUp2] |
+| [Carlos] | [@Iroite] | [DetallePopUp2] |
 | [Tasneen] | [@usuario4] | [] |
 | [Juan] | [@usuario4] | [] |
-
-
-
 
 | ... | ... | ... |
 
