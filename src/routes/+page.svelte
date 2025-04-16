@@ -35,5 +35,9 @@
   
     .cabecera__detalle {
       padding: 50px;
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+      gap: 30px;
     }
   </style>

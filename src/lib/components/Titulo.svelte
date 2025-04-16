@@ -15,8 +15,8 @@
 		font-style: normal;
 		font-weight: 700;
 		line-height: normal;
-		padding-left: 20px;
-	}
+/* 		padding-left: 20px;
+ */	}
 
 	.ranting {
 		display: flex;
