@@ -1,13 +1,19 @@
 <script>
 
-  </script>
+	import Detalle from "$lib/components/Detalle.svelte";
+</script>
+
+
+
+
   
   <section>
     <div class="cabecera">
       <div class="cabecera__video">
       </div>
       <div class="cabecera__detalle">
-   
+   <Detalle></Detalle>
+
       </div>
     </div>
 
