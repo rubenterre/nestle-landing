@@ -1,38 +1,37 @@
 <script>
 	import Titulo from "$lib/components/Titulo.svelte";
-
+	import Detalle from "$lib/components/Detalle.svelte";
 </script>
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
 
-<Titulo></Titulo>
+  <section>
+    <div class="cabecera">
+      <div class="cabecera__video">
+      </div>
+      <div class="cabecera__detalle">
+        <Titulo></Titulo>
+        <Detalle></Detalle>
 
-<style>
+      </div>
+    </div>
 
-:global(*) {
-  margin: 0;
-  padding: 0;
-  outline: 0;
-  box-sizing: border-box;
-}
-@font-face{
-    font-family: "Nunito";
-    src: url(./styles/fonts/NunitoSans.ttf);
-}
+  </section>
+  
+  <style>
+    .cabecera {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      background-color: var(--cor-principal);
+      margin-top: 30px;
+    }
+  
+    .cabecera__video {
+      position: relative;
+      width: 100%;
+      padding-bottom: 56.25%;
+    }
+  
+    .cabecera__detalle {
+      padding: 50px;
+    }
+  </style>
 
-:global(body) {
- background: white;
- color: white ;
- -webkit-font-smoothing: antialiased;
-}
-
-:global(body, input, button) {
- font-size: 14px;
- font-family:"Nunito";
-}
-
-:global(button) {
- cursor: pointer;
-}
-
-</style>
