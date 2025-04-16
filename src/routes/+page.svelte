@@ -1,4 +1,5 @@
 <script>
+	import Description from "$lib/components/Description.svelte";
 	import Titulo from "$lib/components/Titulo.svelte";
 	import Detalle from "$lib/components/Detalle.svelte";
 </script>
@@ -13,6 +14,7 @@
 
       </div>
     </div>
+<Description></Description>
 
   </section>
   
@@ -34,4 +36,3 @@
       padding: 50px;
     }
   </style>
-
