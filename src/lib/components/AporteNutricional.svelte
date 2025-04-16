@@ -1,5 +1,5 @@
 <script>
-    
+
 </script>
 
 <div class="aporte-nutricional-contenedor">
@@ -17,10 +17,6 @@
 		align-items: center;
 		background-color: #e0f2fe;
 		padding: 1rem;
-		border-radius: 4px;
-		cursor: pointer;
-		margin-bottom: 1rem;
-		border: 1px solid #bce0f7;
 	}
 
 	.texto-info {
@@ -38,6 +34,10 @@
 	.subtitulo {
 		font-size: 0.9em;
 		color: #555;
+        border-radius: 4px;
+		cursor: pointer;
+		margin-bottom: 1rem;
+		border: 1px solid #bce0f7;
 	}
 
 	.icono {
