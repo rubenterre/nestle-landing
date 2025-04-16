@@ -28,7 +28,7 @@ A continuación, detállanse as persoas que participan neste proxecto e o compo�
 | [Lola] | [Lola 162683] | [Título e Ranting] |
 | [Laura] | [@LauraAmparo] | [Descripción] |
 | [Enzo] | [@usuario4] | [Footer] |
-| [Jesús] | [@usuario4] | [AporteNutricional] |
+| [Jesús] | [@Likidei] | [AporteNutricional] |
 | [Carlos] | [@usuario4] | [DetallePopUp2] |
 | [Tasneen] | [@usuario4] | [] |
 | [Juan] | [@usuario4] | [] |
