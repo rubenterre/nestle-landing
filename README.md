@@ -30,8 +30,8 @@ A continuación, detállanse as persoas que participan neste proxecto e o compo�
 | [Enzo] | [@EnzoC1036] | [Footer] |
 | [Jesús] | [@Likidei] | [AporteNutricional] |
 | [Carlos] | [@Iroite] | [DetallePopUp2] |
-| [Tasneen] | [@usuario4] | [] |
-| [Juan] | [@usuario4] | [] |
+| [Tasneen] | [@usuario4] | [Video] |
+| [Juan] | [@usuario4] | [DetallePopUp] |
 
 | ... | ... | ... |
 
