@@ -25,7 +25,7 @@ A continuación, detállanse as persoas que participan neste proxecto e o compo�
 | :-- | :-- | :-- |
 | [Daniel] | [daninv36] | [Header] |
 | [Jonathan] | [@JonaSaavedra] | [Detalle] |
-| [Lola] | [@usuario3] | [Título e Ranting] |
+| [Lola] | [Lola 162683] | [Título e Ranting] |
 | [Laura] | [@usuario4] | [Descripción] |
 | [Enzo] | [@usuario4] | [Footer] |
 | [Jesús] | [@usuario4] | [AporteNutricional] |
