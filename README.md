@@ -24,7 +24,7 @@ A continuación, detállanse as persoas que participan neste proxecto e o compo�
 | Nome | Usuario Github | Compoñente asignado |
 | :-- | :-- | :-- |
 | [Daniel] | [daninv36] | [Header] |
-| [Jonathan] | [@usuario2] | [Detalle] |
+| [Jonathan] | [@JonaSaavedra] | [Detalle] |
 | [Lola] | [@usuario3] | [Título e Ranting] |
 | [Laura] | [@usuario4] | [Descripción] |
 | [Enzo] | [@usuario4] | [Footer] |
