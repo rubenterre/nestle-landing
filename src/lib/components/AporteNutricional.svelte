@@ -1,14 +1,17 @@
 <script>
-
+    
 </script>
 
-<div class="aporte-nutricional-contenedor">
+<botton on:click={showPopup} class="aporte-nutricional-contenedor">
 	<div class="texto-info">
 		<span class="titulo">Qué me aporta esta receta...</span>
 		<span class="subtitulo">Información nutricional</span>
 	</div>
 	<div class="icono">+</div>
-</div>
+</botton>
+
+<Popup bind:visible={popupVisible}/>
+
 
 <style>
 	.aporte-nutricional-contenedor {
