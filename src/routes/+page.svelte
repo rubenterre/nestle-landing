@@ -2,6 +2,7 @@
 	import Description from "$lib/components/Description.svelte";
 	import Titulo from "$lib/components/Titulo.svelte";
 	import Detalle from "$lib/components/Detalle.svelte";
+	import AporteNutricional from "$lib/components/AporteNutricional.svelte";
 </script>
 
   <section>
@@ -11,7 +12,7 @@
       <div class="cabecera__detalle">
         <Titulo></Titulo>
         <Detalle></Detalle>
-
+        <AporteNutricional></AporteNutricional>
       </div>
     </div>
 <Description></Description>
