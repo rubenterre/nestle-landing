@@ -1,10 +1,10 @@
 <script>
 
-  export let visible = false;
+export let visible = false;
 
-  function closePopup() {
-    visible = false;
-  }
+function closePopup() {
+  visible = false;
+}
 </script>
 
 {#if visible}

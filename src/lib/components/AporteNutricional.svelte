@@ -1,6 +1,11 @@
 <script>
-    
-</script>
+	import Popup from "./Popup.svelte";
+	let popupVisible = false;
+	
+	function showPopup() {
+	  popupVisible = true;
+	}
+	</script>
 
 <botton on:click={showPopup} class="aporte-nutricional-contenedor">
 	<div class="texto-info">
