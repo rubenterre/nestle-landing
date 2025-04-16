@@ -29,7 +29,7 @@ A continuación, detállanse as persoas que participan neste proxecto e o compo�
 | [Laura] | [@LauraAmparo] | [Descripción] |
 | [Enzo] | [@EnzoC1036] | [Footer] |
 | [Jesús] | [@usuario4] | [AporteNutricional] |
-| [Carlos] | [@usuario4] | [DetallePopUp2] |
+| [Carlos] | [@Iroite] | [DetallePopUp2] |
 | [Tasneen] | [@usuario4] | [] |
 | [Juan] | [@usuario4] | [] |
 
