@@ -1,6 +1,9 @@
 <script>
+	import Header from '$lib/components/Header.svelte';
+</script>
 
-  </script>
+<Header></Header>
+
   
   <slot/>
   

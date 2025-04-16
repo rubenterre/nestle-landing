@@ -1,4 +1,3 @@
-
 <script>
 
   </script>
@@ -32,5 +31,3 @@
       padding: 50px;
     }
   </style>
-  
-  
