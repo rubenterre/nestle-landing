@@ -1,4 +1,6 @@
 <script>
+	import InfoNutricional from "./InfoNutricional.svelte";
+
 
 export let visible = false;
 
@@ -15,7 +17,7 @@ function closePopup() {
       
       </div>
       <div class="popup__info">
-        
+        <InfoNutricional></InfoNutricional>
       </div>
       <div class="popup__cerrar">
         <button on:click={closePopup}>Cerrar</button>

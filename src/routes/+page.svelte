@@ -1,5 +1,4 @@
 <script>
-	import InfoNutricional from "$lib/components/InfoNutricional.svelte";
 	import Description from "$lib/components/Description.svelte";
 	import Titulo from "$lib/components/Titulo.svelte";
 	import Detalle from "$lib/components/Detalle.svelte";
@@ -17,7 +16,6 @@
       </div>
     </div>
 <Description></Description>
-<InfoNutricional></InfoNutricional>
   </section>
   
   <style>

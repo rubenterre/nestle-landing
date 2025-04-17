@@ -33,7 +33,6 @@
 <style>	
 .principal {
     display: flex;
-    	
 }
 
 	.azucar {
@@ -46,10 +45,11 @@
 	}
 
 	.down {
-		width: 75.5rem;
-		height: 11.9rem;
+		width: 80vw;
+		height: 110px;
 		font-size: 0.81rem;
 		font-family: Nunito;
+		background-color: white;
 	}
 	h3 {
 		font-weight: 400;
