@@ -43,5 +43,6 @@
     }
     .detalle__description p{
         white-space: nowrap;
+        width: 165px;
     }
 </style>
