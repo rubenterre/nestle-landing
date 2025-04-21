@@ -1,4 +1,5 @@
 <script>
+	import DetallePopUp from "./DetallePopUp.svelte";
 	import InfoNutricional from "./InfoNutricional.svelte";
 
 
@@ -14,7 +15,7 @@ function closePopup() {
     <div class="popup-contenido">
       <p>Esta receta me aporta...</p>
       <div class="popup__datos">
-      
+      <DetallePopUp></DetallePopUp>
       </div>
       <div class="popup__info">
         <InfoNutricional></InfoNutricional>
