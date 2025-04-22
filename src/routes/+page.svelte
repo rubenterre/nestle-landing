@@ -3,11 +3,13 @@
 	import Titulo from "$lib/components/Titulo.svelte";
 	import Detalle from "$lib/components/Detalle.svelte";
 	import AporteNutricional from "$lib/components/AporteNutricional.svelte";
+	import Video from "$lib/components/Video.svelte";
 </script>
 
   <section>
     <div class="cabecera">
       <div class="cabecera__video">
+        <Video></Video>
       </div>
       <div class="cabecera__detalle">
         <Titulo></Titulo>
@@ -27,9 +29,13 @@
     }
   
     .cabecera__video {
-      position: relative;
+      /* position: relative; */
       width: 100%;
-      padding-bottom: 56.25%;
+      height: 414px;
+      /* padding-bottom: 56.25%; */
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
   
     .cabecera__detalle {
