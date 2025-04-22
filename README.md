@@ -30,7 +30,7 @@ A continuación, detállanse as persoas que participan neste proxecto e o compo�
 | [Enzo] | [@EnzoC1036] | [Footer] |
 | [Jesús] | [@Likidei] | [AporteNutricional] |
 | [Carlos] | [@Iroite] | [DetallePopUp2] |
-| [Tasneen] | [@usuario4] | [Video] |
+| [Tasneen] | [@tasberbie200666] | [Video] |
 | [Juan] | [@Galinhanes] | [DetallePopUp] |
 
 | ... | ... | ... |
